@@ -1,4 +1,4 @@
-# master-thesis-analysis
+# Master thesis analysis
 This repository contains the R scripts used for the data analysis performed in my master thesis.
 
 # Experiment
