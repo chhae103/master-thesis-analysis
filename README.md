@@ -15,7 +15,7 @@ Generation of plots
 The analysis was performed using R Studio version 4.3.1
 
 # Code origin
-The scripts were originally created by a previous member of the lab, M.Sc. Inge Scharpf, with the assistance of OpenAI.
+The scripts were originally created by a previous member of the lab, with the assistance of OpenAI.
 
 I adapted and modified these scripts for my specific analysis needs. For example, I recoded the script to generate spiderweb plots. The original version compared the mock control with a single treatment gourp. My version modified version compares all treatment groups with each other using different symbols and line types to distinguish the groups.
 
