@@ -20,3 +20,8 @@ The scripts were originally created by a previous member of the lab, M.Sc. Inge 
 I adapted and modified these scripts for my specific analysis needs. For example, I recoded the script to generate spiderweb plots. The original version compared the mock control with a single treatment gourp. My version modified version compares all treatment groups with each other using different symbols and line types to distinguish the groups.
 
 these modifications were implemented by me with the assistance of OpenAI.
+
+# Usage of Codes
+
+The scripts were used in the chronological oder S1-S5.
+First each individual experiment was processed, then all experimental replicates were processec. Afterwards the statistical analysis was performed with the S3 scriped, followed by S4 and S5 to generate scatterplots and spiderweb plots
