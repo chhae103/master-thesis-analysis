@@ -24,4 +24,4 @@ these modifications were implemented by me with the assistance of OpenAI.
 # Usage of Codes
 
 The scripts were used in the chronological oder S1-S5.
-First each individual experiment was processed, then all experimental replicates were processec. Afterwards the statistical analysis was performed with the S3 scriped, followed by S4 and S5 to generate scatterplots and spiderweb plots
+First each individual experiment was processed using S1, then all experimental replicates were processed using S2. Afterwards the statistical analysis was performed with the S3 script, followed by S4 and S5 to generate scatterplots and spiderweb plots.
